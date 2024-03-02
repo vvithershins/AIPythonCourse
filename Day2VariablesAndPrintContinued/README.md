@@ -61,8 +61,9 @@ More Technical Information:
 Python is dynamically typed, meaning you don't need to specify the data type of a variable explicitly.
 ```python
 x = 10  # x is an integer
-x = "Hello"  # x is now a string
 print(type(x)) # to check what type x is
+x = "Hello"  # x is now a string
+print(type(x)) 
 ```
 Variables can be reassigned to different values of different types without any issues due to dynamic typing.
 
