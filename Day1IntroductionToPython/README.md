@@ -7,7 +7,6 @@ Lesson:
 Python is known for its readability and ease of use. Let's begin by writing a simple "Hello, World!" program:
 
 ```python
-Copy code
 print("Hello, World!")
 ```
 Explanation:
