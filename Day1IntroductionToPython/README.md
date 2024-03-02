@@ -1,7 +1,7 @@
 # Day 1: Introduction to Python
 
 What We'll Cover:
-Today, we'll embark on our journey to learn Python, one of the most popular and versatile programming languages in the world. Python's simple syntax and readability make it an excellent choice for beginners and professionals alike. We'll start by understanding what Python is and how to set up our environment to start writing and running Python code.
+Today, we'll embark on our journey to learn Python, one of the most popular and versatile programming languages in the world. Python's simple syntax and readability make it an excellent choice for beginners and professionals alike.
 
 Lesson:
 Python is known for its readability and ease of use. Let's begin by writing a simple "Hello, World!" program:
