@@ -1,6 +1,6 @@
-# Day 4: Functions and Modules
+# Day 4: Functions
 
-In Day 4, we'll explore the concept of functions and modules in Python. Functions allow us to encapsulate reusable blocks of code, while modules enable us to organize our code into separate files for better maintainability and reusability.
+In Day 4, we'll explore the concept of functions and modules in Python. Functions allow us to encapsulate reusable blocks of code.
 
 A function in Python is a block of code that performs a specific task. Functions help us avoid repetitive code and make our code more modular and easier to understand.
 
