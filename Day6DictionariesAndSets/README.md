@@ -99,6 +99,6 @@ Prompt the user to enter an item and its quantity.
 Add the item and quantity to the dictionary.
 Print out the contents of the shoppinglist.
 
-That concludes the lesson for Day 6! Tomorrow, we'll have a project day to practice and review the concepts covered so far.
+That concludes the lesson for Day 6! Tomorrow, we'll cover if else statements.
 
 
